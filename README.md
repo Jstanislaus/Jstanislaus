@@ -1,7 +1,7 @@
 # Hi, I'm Jacob
 Embedded Systems & Digital Design | FPGA, Signal Processing | Durham Engineering
 
-## 🔧 What I Do
+## 🔧 What I'm up to
 - Embedded C for microcontrollers (PIC, Raspberry Pi Pico)  
 - FPGA design in Verilog (Basys 3)  
 - Analog front-end design (op-amps, comparators, filtering)  
